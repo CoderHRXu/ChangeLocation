@@ -13,6 +13,7 @@
 		ADCA60A02189896700E70422 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADCA609F2189896700E70422 /* Assets.xcassets */; };
 		ADCA60A32189896700E70422 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADCA60A12189896700E70422 /* LaunchScreen.storyboard */; };
 		ADCA60AB21898A4E00E70422 /* CoreLocation+Exchange.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCA60AA21898A4E00E70422 /* CoreLocation+Exchange.swift */; };
+		ADCA60B121898D5900E70422 /* SuZhouSIS5.gpx in Resources */ = {isa = PBXBuildFile; fileRef = ADCA60B021898D5900E70422 /* SuZhouSIS5.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ADCA60A22189896700E70422 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ADCA60A42189896700E70422 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ADCA60AA21898A4E00E70422 /* CoreLocation+Exchange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CoreLocation+Exchange.swift"; sourceTree = "<group>"; };
+		ADCA60B021898D5900E70422 /* SuZhouSIS5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = SuZhouSIS5.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				ADCA609C2189896600E70422 /* Main.storyboard */,
 				ADCA609F2189896700E70422 /* Assets.xcassets */,
 				ADCA60A12189896700E70422 /* LaunchScreen.storyboard */,
+				ADCA60B021898D5900E70422 /* SuZhouSIS5.gpx */,
 				ADCA60A42189896700E70422 /* Info.plist */,
 			);
 			path = ChangeLocation;
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADCA60A32189896700E70422 /* LaunchScreen.storyboard in Resources */,
+				ADCA60B121898D5900E70422 /* SuZhouSIS5.gpx in Resources */,
 				ADCA60A02189896700E70422 /* Assets.xcassets in Resources */,
 				ADCA609E2189896600E70422 /* Main.storyboard in Resources */,
 			);
