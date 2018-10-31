@@ -12,6 +12,7 @@
 		ADCA609E2189896600E70422 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADCA609C2189896600E70422 /* Main.storyboard */; };
 		ADCA60A02189896700E70422 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADCA609F2189896700E70422 /* Assets.xcassets */; };
 		ADCA60A32189896700E70422 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADCA60A12189896700E70422 /* LaunchScreen.storyboard */; };
+		ADCA60AB21898A4E00E70422 /* CoreLocation+Exchange.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCA60AA21898A4E00E70422 /* CoreLocation+Exchange.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		ADCA609F2189896700E70422 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADCA60A22189896700E70422 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ADCA60A42189896700E70422 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADCA60AA21898A4E00E70422 /* CoreLocation+Exchange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CoreLocation+Exchange.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				ADCA60982189896600E70422 /* AppDelegate.swift */,
 				ADCA609A2189896600E70422 /* ViewController.swift */,
+				ADCA60AA21898A4E00E70422 /* CoreLocation+Exchange.swift */,
 				ADCA609C2189896600E70422 /* Main.storyboard */,
 				ADCA609F2189896700E70422 /* Assets.xcassets */,
 				ADCA60A12189896700E70422 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADCA60AB21898A4E00E70422 /* CoreLocation+Exchange.swift in Sources */,
 				ADCA609B2189896600E70422 /* ViewController.swift in Sources */,
 				ADCA60992189896600E70422 /* AppDelegate.swift in Sources */,
 			);
